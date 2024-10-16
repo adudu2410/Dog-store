@@ -165,6 +165,10 @@ a {
   display: none;
 }
 
+.header .inner-overlay {
+  display: none;
+}
+
 @media (max-width: 1199.98px) {
   .header .button {
     display: none;
